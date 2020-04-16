@@ -11,7 +11,7 @@ while True:
     user_input=input(":")
 
     if user_input == "quit":
-        print("Quit Option Selected\n Bye")
+        print("Quit Option Selected!")
         break
     else:
         num1 = int(input("Enter the first Number: "))
